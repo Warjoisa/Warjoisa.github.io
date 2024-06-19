@@ -14,7 +14,7 @@ button.onclick = function() {
 };
 
 function playClickSound() {
-    var audio = new Audio('click-sound.mp3'); // Luo uuden ääniobjektin
+    var audio = new Audio('click.mp3'); // Luo uuden ääniobjektin
     audio.play(); // Soittaa äänen
 }
 
